@@ -18,7 +18,7 @@
   <%= link_to user do %>
     <div class="info-border">
       <p> <%= user.username %> </p>
-      <%= cl_image_tag user.avatar.key, crop: :fit, class: "avatar dropdown-toggle" %>
+      <%= cl_image_tag user.avatar.key, crop: :fit, class: "avatar dropdown-toggle", id: "city-avatar"%>
     </div>
   <% end %>
 <% end %>
