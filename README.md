@@ -1,3 +1,4 @@
 🧳
 
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+![Alt Text](https://media.giphy.com/media/OFAO0R3Y2tQFfiQr0L/giphy.gif)
+
